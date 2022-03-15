@@ -9,13 +9,15 @@
 
 int main(void)
 {
-int i;
-char ch[] = "_putchar";
+char str[] = "_putchar\n";
+int i = 0;
 
-for (i = 0;i < 8; i++)
-{
-_putchar(ch[]);
-}
-_putchar("\n");
+while (str[i] != '\0')
+	{
+	char c = str[i];
+
+	_putchar(c);
+	i++;
+	}
 return (0);
 }
