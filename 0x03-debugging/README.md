@@ -1,1 +1,1 @@
-task 0 -  this main file is a test for a postitive_or_negative() function similar to the one you worked with in an earlier C project:
+task 0 -  This file must test that the function positive_or_negative() gives the correct output when given a case of 0.
