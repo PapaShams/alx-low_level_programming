@@ -3,7 +3,7 @@
 /**
 * _puts -a function that prints a string to stdout
 * @str: a value to be tested
-*
+* 
 * Return: (0)
 */
 
